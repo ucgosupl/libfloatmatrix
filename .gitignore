@@ -1,0 +1,8 @@
+# auto generated content by static makefiles
+out/
+bin/
+
+# eclipse project files
+.settings
+.project
+.cproject
